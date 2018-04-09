@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "blocker/press",
+    "description": "Blocker.Press: A Blogging Platform for Steem.",
+    "keywords": ["steem", "steemit", "blog", "php", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
