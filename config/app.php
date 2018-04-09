@@ -154,11 +154,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Blocker\Press\Providers\AppServiceProvider::class,
+        Blocker\Press\Providers\AuthServiceProvider::class,
+        // Blocker\Press\Providers\BroadcastServiceProvider::class,
+        Blocker\Press\Providers\EventServiceProvider::class,
+        Blocker\Press\Providers\RouteServiceProvider::class,
 
     ],
 
